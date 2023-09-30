@@ -1,4 +1,4 @@
-### Eae! Eu sou o Lucas Souza!
+### Eae! Eu sou o Lucas!
 
 <div align="center">
   <a href="https://github.com/lucasbenacci">
