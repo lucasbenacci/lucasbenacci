@@ -15,6 +15,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+<h2>:notes: Now playing
+</br>
+<a href="https://open.spotify.com/user/12142964052"><img src="https://spotify-now-playing-carol42.vercel.app/api/spotify" alt="Now playing on Spotify" ></a>
+
 <details>
     <summary>Recently played</summary>
     <a href="https://open.spotify.com/user/12142964052"><img src="https://spotify-recently-played-readme.vercel.app/api?user=12142964052&unique=true&count=10" alt="Spotify recently played"></a>
