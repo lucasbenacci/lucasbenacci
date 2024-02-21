@@ -15,10 +15,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-<datails>
+<details>
     <summary>Recently played</summary>
     <a href="https://open.spotify.com/user/12142964052"><img src="https://spotify-recently-played-readme.vercel.app/api?user=12142964052&unique=true&count=10" alt="Spotify recently played"></a>
-</datails>
+</details>
   
 ##
   
