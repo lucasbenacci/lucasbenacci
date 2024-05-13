@@ -1,8 +1,4 @@
 ### Eae! Eu sou o Lucas!
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=C300F7&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Designer;Runner" alt="Typing SVG" /></a>
-</div>
-
 
 <div align="center">
   <a href="https://github.com/lucasbenacci">
